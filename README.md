@@ -1,2 +1,4 @@
 # svenflender.github.io
-Source for cncnoob.de
+Source for testing and learning Jekyll
+
+http://jmcglone.com/guides/github-pages/
